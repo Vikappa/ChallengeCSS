@@ -1,2 +1,2 @@
-permalinks:
-default: /ChallengeCSS/index.html
+landing_page:
+  path: /ChallengeCSS/index.html
